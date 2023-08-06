@@ -1,12 +1,12 @@
 # Line-Tracing-BOT
-##OBJECTIVE:
+## OBJECTIVE:
 
 To build an Autonomous robot which can follow a white line and keep track of
 directions while going through the maze. The bot has to analyze the path in the dry run and has
 to go through the maze from the starting point to the ending point in minimum possible time.
 
 
-##ARENA:
+## ARENA:
 
 The game field consists of an arena having dimensions 210 cm X 210 cm (lxb). It consists of the
 following:
@@ -16,4 +16,4 @@ following:
 4. A white box of 300 mm x 300 mm is present at the end zone of the arena to indicate the end position.
 
 
-###This Repository will contain the Code to make a BOT made up of IR Sensors to Follow a line on a Maze.
+### This Repository will contain the Code to make a BOT made up of IR Sensors to Follow a line on a Maze.
