@@ -16,4 +16,4 @@ following:
 4. A white box of 300 mm x 300 mm is present at the end zone of the arena to indicate the end position.
 
 
-### This Repository will contain the Code to make a BOT made up of IR Sensors to Follow a line on a Maze.
+### This Repository will contain the Code to make a BOT to Follow a line on a Maze.
